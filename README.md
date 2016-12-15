@@ -1,5 +1,7 @@
 # FluidHub
+FluidHub - Integrated Mobility in Urban Areas of the Danube Region
 
+# About FluidHub
 ![FluidHub logo](https://www.fluidtime.com/files/cto_layout/content/images/content/FluidHub/Produkte_FluidHub.png)
 
 FluidHub software is the core of all Fluidtime IMP (Integrated Mobility Platform) solutions and represents the basis for all additional functionalities and services.
@@ -8,6 +10,8 @@ It allows the smart integration via intelligent linking of different mobility se
 
 FluidHub provides standard APIs for unified access via various front-end clients.
 
+# Members of the project team
+Roman Pickl and Fluidtime staff.
 
 #More Information
 More info can be found [here](https://www.fluidtime.com/en/fluidhub) and in todays [presentation](FluidHub_DanubeHack2_0.pdf).
